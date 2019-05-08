@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wohjeizah.trashmoon.com/sitemap.xml
